@@ -2,10 +2,14 @@
 
 -Live site URL [https://loop-studio-landing-page-alpha.vercel.app/]
 
-##Build with using
+### Built with
 
--html
--css grid
-javascript 
+-  HTML
+- CSS
+- Javascript
+- Font awesome 
+
+
+
 
  
